@@ -1,7 +1,19 @@
-{
+{ 
+  "contactUs":"Contact us",
   "fname": "First Name",
   "lname": "Last Name",
+  "phone": "Phone Number",
   "mobile": "Mobile Number",
   "address": "Address",
-  "message": "Message"
+  "message": "Message",
+  "website": "Website",
+  "note": "Note",
+  "message": "Message",
+  "send": "Send",
+  "IHaveReadThe": "I have read the",
+  "agreement": "agreement",
+  "invalidInput": "The input is not valid",
+  "typeYour": "Please type your",
+  "shouldAccept": "Should accept agreement",
+  "thanksMsg": "Thank you for your message!"
 }
